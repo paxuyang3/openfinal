@@ -1,0 +1,1 @@
+"""Cafe drink recommendation backend."""
